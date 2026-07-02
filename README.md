@@ -1,1 +1,1 @@
-# AIOPS-JOURNEY-2026
+AIOps Journey 2026 - Mastered SSH
